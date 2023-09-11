@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co/gydQysQ/prof2.jpg",
+        "title": "Lorem Ipsum",
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co/gydQysQ/prof2.jpg",
+        "posted_date": "2023-09-11",
+        "Reading_time": "10 mins",
+        "hashtags": ["#LoremIpsum", "#Writing", "#Fiction"]
+      },
+      {
+        "id": 2,
+        "cover": "https://example.com/cover2.jpg",
+        "title": "Tech Trends",
+        "author": "Jane Smith",
+        "author_img": "https://example.com/author2.jpg",
+        "posted_date": "2023-09-10",
+        "Reading_time": "8 mins",
+        "hashtags": ["#Technology", "#Innovation", "#Trends"]
+      },
+      {
+        "id": 3,
+        "cover": "https://example.com/cover3.jpg",
+        "title": "Cooking Adventures",
+        "author": "Chef Michael",
+        "author_img": "https://example.com/author3.jpg",
+        "posted_date": "2023-09-09",
+        "Reading_time": "15 mins",
+        "hashtags": ["#Cooking", "#Recipes", "#Foodies"]
+      },
+      {
+        "id": 4,
+        "cover": "https://example.com/cover4.jpg",
+        "title": "Travel Chronicles",
+        "author": "Sarah Johnson",
+        "author_img": "https://example.com/author4.jpg",
+        "posted_date": "2023-09-08",
+        "Reading_time": "12 mins",
+        "hashtags": ["#Travel", "#Adventure", "#Wanderlust"]
+      },
+      {
+        "id": 5,
+        "cover": "https://example.com/cover5.jpg",
+        "title": "Fitness Tips",
+        "author": "David Wilson",
+        "author_img": "https://example.com/author5.jpg",
+        "posted_date": "2023-09-07",
+        "Reading_time": "6 mins",
+        "hashtags": ["#Fitness", "#Health", "#Exercise"]
+      }
+           
+]
+  
